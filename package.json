@@ -1,0 +1,24 @@
+{
+  "name": "mongodb_user_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanrios94/mongodb-user-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanrios94/mongodb-user-server/issues"
+  },
+  "homepage": "https://github.com/jordanrios94/mongodb-user-server#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.4.1",
+    "nodemon": "^1.18.9"
+  }
+}
